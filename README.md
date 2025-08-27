@@ -1,5 +1,4 @@
 <!-- Banner / Header -->
-![header](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)
 
 # 👋 Hey, I'm Rushikesh Nabde  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F700&width=600&lines=💻+Cybersecurity+Enthusiast;🔒+Ethical+Hacking+Learner;🖥️+IT+Support+Engineer;⚡+Red+Team+Aspiring+Professional)](https://git.io/typing-svg)
