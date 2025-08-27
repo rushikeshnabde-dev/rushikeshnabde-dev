@@ -1,54 +1,59 @@
-# 👋 Hey, I'm Rushikesh Nabde  
+<!-- Banner / Header -->
+![header](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)
 
-💻 **Cybersecurity Enthusiast | Ethical Hacking Learner | IT Support Engineer**  
+# 👋 Hey, I'm Rushikesh Nabde  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F700&width=600&lines=💻+Cybersecurity+Enthusiast;🔒+Ethical+Hacking+Learner;🖥️+IT+Support+Engineer;⚡+Red+Team+Aspiring+Professional)](https://git.io/typing-svg)
 
 ---
 
 ## 🚀 About Me  
-- 🔒 Passionate about **Cybersecurity & Ethical Hacking**  
-- 🖥️ Currently working as an **IT Support Engineer (Computer Lab Assistant)**  
-- 🌱 Exploring **Networking, Penetration Testing & Automation**  
-- ⚡ Building cool security projects like **Phishing Simulations, FTP Exploits, and NIDS (RedShield)**  
-- 🎯 Goal: To become a skilled **Red Team Cybersecurity Professional**  
+- 🔐 Always curious about **Cybersecurity & Ethical Hacking**  
+- 🖥️ Working as **IT Support Engineer (Computer Lab Assistant)**  
+- 🌱 Exploring **Networking, PenTesting, Automation**  
+- ⚡ Projects: **Phishing Sims | FTP Exploits | RedShield NIDS**  
+- 🎯 Dream: To become a **Red Team Cybersecurity Pro**  
 
 ---
 
 ## 🛠 Tech Stack  
-
-**Languages & Tools:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)  
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)  
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,c,linux,bash,mongodb,git,wireshark,kali" />
+</p>
 
 ---
 
 ## 📂 Featured Projects  
 
-🔹 [**Phish**](https://github.com/rushikeshnabde-dev/Phish) – Educational phishing simulation tool  
-🔹 [**FTP Exploit**](https://github.com/rushikeshnabde-dev/FTP_EXPLOIT) – FTP service automation & exploitation demo  
-🔹 **RedShield** – A Network Intrusion Detection System (Work in Progress 🚧)  
+🔹 [**Phish**](https://github.com/rushikeshnabde-dev/Phish) – 🎭 *Phishing Simulation Tool*  
+🔹 [**FTP Exploit**](https://github.com/rushikeshnabde-dev/FTP_EXPLOIT) – 📡 *FTP Service Exploit Automation*  
+🔹 **RedShield (WIP)** – 🛡️ *Custom Network Intrusion Detection System*  
 
 ---
 
 ## 📊 GitHub Stats  
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=rushikeshnabde-dev&show_icons=true&theme=radical" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushikeshnabde-dev&layout=compact&theme=radical" height="170"/>
+</p>  
 
-![Rushikesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=rushikeshnabde-dev&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rushikeshnabde-dev&layout=compact&theme=radical)  
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=rushikeshnabde-dev&theme=radical)  
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rushikeshnabde-dev&theme=radical" height="170"/>
+</p>
+
+---
+
+## 🐍 Snake Contribution Animation  
+![snake gif](https://github.com/rushikeshnabde-dev/rushikeshnabde-dev/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
 ## 🌐 Connect With Me  
-
 📧 Email: **rushikeshnabde2@gmail.com**  
-💼 LinkedIn: *[Add your LinkedIn profile link]*  
-📷 Instagram: *[Optional – your tech/cyber page link]*  
+💼 LinkedIn: *https://www.linkedin.com/in/rushikesh-nabde-458768365/*  
+📷 Instagram: *rushikesh_nabde*  
 
 ---
 
-✨ *“Security is not a product, it’s a process.”*  
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=24&center=true&vCenter=true&width=600&lines=✨+Security+is+not+a+product;🚀+It’s+a+continuous+process..." />
+</p>
